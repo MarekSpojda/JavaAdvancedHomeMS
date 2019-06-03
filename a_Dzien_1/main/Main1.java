@@ -1,4 +1,4 @@
-package a_Dzien_1;
+package a_Dzien_1.main;
 
 import java.util.Arrays;
 

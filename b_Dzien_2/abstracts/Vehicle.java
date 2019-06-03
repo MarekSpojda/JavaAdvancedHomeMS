@@ -1,6 +1,6 @@
-package b_Dzien_2;
+package b_Dzien_2.abstracts;
 
-abstract class Vehicle {
+public abstract class Vehicle {
     private int maxSpeed;
     protected String model;
 

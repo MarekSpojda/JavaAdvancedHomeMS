@@ -1,4 +1,4 @@
-package a_Dzien_1.dao;
+package a_Dzien_1.model;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

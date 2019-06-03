@@ -1,4 +1,6 @@
-package b_Dzien_2;
+package b_Dzien_2.extendsclasses;
+
+import b_Dzien_2.abstracts.Vehicle;
 
 public class Train extends Vehicle {
     private int trackWidth;

@@ -1,4 +1,7 @@
-package a_Dzien_1.dao;
+package a_Dzien_1.model;
+
+import a_Dzien_1.model.Group;
+import a_Dzien_1.model.Model;
 
 public class User implements Model {
     private Long id;

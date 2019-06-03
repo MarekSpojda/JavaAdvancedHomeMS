@@ -1,4 +1,6 @@
-package b_Dzien_2;
+package b_Dzien_2.mains;
+
+import b_Dzien_2.interfaces.Task1Interface;
 
 import java.util.ArrayList;
 import java.util.Arrays;

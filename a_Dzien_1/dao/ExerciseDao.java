@@ -1,5 +1,9 @@
 package a_Dzien_1.dao;
 
+import a_Dzien_1.model.DbUtil;
+import a_Dzien_1.model.Exercise;
+import a_Dzien_1.model.Model;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

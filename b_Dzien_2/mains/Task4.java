@@ -1,4 +1,9 @@
-package b_Dzien_2;
+package b_Dzien_2.mains;
+
+import b_Dzien_2.extendsclasses.Train;
+import b_Dzien_2.abstracts.Vehicle;
+import b_Dzien_2.extendsclasses.Car;
+import b_Dzien_2.interfaces.Inspectionable;
 
 public class Task4 {
     public static void main(String[] args) {

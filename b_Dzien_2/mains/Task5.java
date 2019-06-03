@@ -1,4 +1,4 @@
-package b_Dzien_2;
+package b_Dzien_2.mains;
 
 import java.util.ArrayList;
 import java.util.Collection;

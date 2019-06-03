@@ -1,4 +1,4 @@
-package a_Dzien_1;
+package a_Dzien_1.main;
 
 public class Person implements Comparable<Person> {
 

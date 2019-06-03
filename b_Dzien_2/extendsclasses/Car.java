@@ -1,4 +1,7 @@
-package b_Dzien_2;
+package b_Dzien_2.extendsclasses;
+
+import b_Dzien_2.abstracts.Vehicle;
+import b_Dzien_2.interfaces.Inspectionable;
 
 public class Car extends Vehicle implements Inspectionable {
     private String type;

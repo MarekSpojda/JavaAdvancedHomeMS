@@ -1,4 +1,8 @@
-package a_Dzien_1.dao;
+package a_Dzien_1.main;
+
+import a_Dzien_1.dao.ExerciseDao;
+import a_Dzien_1.model.Exercise;
+import a_Dzien_1.model.Model;
 
 import java.util.List;
 

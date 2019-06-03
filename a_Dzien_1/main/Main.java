@@ -1,6 +1,9 @@
-package a_Dzien_1.dao;
+package a_Dzien_1.main;
 
-import java.sql.SQLException;
+import a_Dzien_1.dao.GroupDao;
+import a_Dzien_1.model.Group;
+import a_Dzien_1.model.Model;
+
 import java.util.List;
 
 public class Main {
